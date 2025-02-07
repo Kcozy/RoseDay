@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf0; /* Light Ivory for a warm feel */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    max-width: 600px;
+    width: 90%;
+    text-align: center;
+}
+h1 {
+    color: #ffa500; /* Orange to match the rose and theme */
+}
+.message {
+    margin-bottom: 1.5rem;
+    text-align: center; /* Align the message text to the left */
+    white-space: pre-line; /* Respect line breaks in the text */
+}
+
+.quote {
+    margin-bottom: 1.5rem;
+    font-style: italic;
+    color: #666;
+}
+.author {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.rose {
+    font-size: 5rem;
+    margin-bottom: 1.5rem;
+    display: inline-block;
+}
