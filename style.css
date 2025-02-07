@@ -1,6 +1,6 @@
 body {
     font-family: "GFS Didot", serif;
-    background-color: #fffaf0; /* Light Ivory for a warm feel */
+    background-color: #ffdada; /* Light Ivory for a warm feel */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,7 +8,7 @@ body {
     margin: 0;
 }
 .container {
-    background-color: white;
+    background-color: rgb(231, 144, 144);
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 2rem;
@@ -17,7 +17,7 @@ body {
     text-align: center;
 }
 h1 {
-    color: #ffa500; /* Orange to match the rose and theme */
+    color: #fa1b1b; /* Orange to match the rose and theme */
 }
 .message {
     margin-bottom: 1.5rem;
@@ -28,11 +28,11 @@ h1 {
 .quote {
     margin-bottom: 1.5rem;
     font-style: italic;
-    color: #666;
+    color: #fa1b1b;
 }
 .author {
     font-size: 0.9rem;
-    color: #888;
+    color: #fa1b1b;
 }
 
 .rose {
